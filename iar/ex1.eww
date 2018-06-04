@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\button_press.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\ADC\EV-COG-AD3029LZ\iar\rtc_alarm_example.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

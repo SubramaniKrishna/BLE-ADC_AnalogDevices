@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armJET.dll" 
+
+"C:\Users\Shiva\Desktop\EV-COG-AD3029LZ\iar\Debug\Exe\button_press.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
+
+--flash_loader "C:\Users\Shiva\AppData\Local\IAR Embedded Workbench\PackRepo\AnalogDevices\ADuCM302x_DFP\3.1.0\ARM\config\flashloader\AnalogDevices\FlashADUCM3029.board" 
+
+
+
+
